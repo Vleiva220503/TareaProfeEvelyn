@@ -2,7 +2,7 @@ import { Book, Wifi, Home, Shield, Map, Settings,
     Pencil, Monitor, BookOpen, 
     Crop, Zap, Rocket, Globe, 
     Layers, Lock, Loader, Link, 
-    ArrowRight, SignalBars   } from "lucide-react";
+    ArrowRight} from "lucide-react";
 
 export const socialNetworks = [];
 
